@@ -14,6 +14,12 @@ My sister's cat was 15 pounds, and DQS was 18, which is 6.8 kg and 8.1 kg respec
 
 According to this new study, our cats aren't really that fat. Woo hoo! However, this dataset was not made publically avalaible (as far as I could find), and hope someday to find an update-to-date open-source cat weight dataset.
 
+Here are pictures of Salem and DQS, respectively, so you can decide for yourself
+
+![Alt text](./salem.jpg?raw=true "Title")
+
+![Alt text](./dqs.jpg?raw=true "Title")
+
 ## credit
 
 The data were obtained from
