@@ -10,7 +10,7 @@ Female Cats
 
 My sister's cat was 15 pounds, and DQS was 18, which is 6.8 kg and 8.1 kg respectively, which seems super heavy according to this dataset. However, this cat dataset was collected in 1947, even though it appears to be the most cited publications for cat weights. 
 
-We decided to look for newer dataset publications. Delaney found an online forum of datasets from different animal shelters, 47 of which had the keyword "cat". However, none of them appeared to record weight. https://catalog.data.gov/dataset?tags=cat
+We decided to look for newer dataset publications. Delaney found an online forum of datasets from different animal shelters, 42 of which had the keyword "cat". However, none of them appeared to record the weight of the cats. https://catalog.data.gov/dataset?tags=cat
 
 I found a newer publication from 2015 that studied cat weights in Australia, which found the following histogram:
 
