@@ -18,7 +18,7 @@ Here are pictures of Salem and DQS, respectively, so you can decide for yourself
 
 ![Alt text](./salem.jpg?raw=true "Title")
 
-![Alt text](./dqs.jpg?raw=true "Title")
+![Alt text](./dqs.JPG?raw=true "Title")
 
 ## credit
 
