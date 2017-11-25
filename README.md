@@ -1,27 +1,5 @@
-# datasets-cats
-A dataset about cats. Contains info on sex (M/F), body weight (kg), and heart weight (g) for 144 cats.
+In order to determine whether my sister's male cat was overweight or not, I decided to find a dataset of cat weights and visualize them in histogram form to see where my sister's cat fell on it. Below is the final histograms, one for males and one for females:
 
-## installation
-
-```
-$ npm install --save datasets-cats
-```
-## usage
-
-```js
-var cats = require('datasets-cats');
-
-cats.forEach(function(cat) {
-  // each cat is an object like:
-  // {
-  //    sex: 'F',
-  //    bodyWeight: 'BODY WEIGHT IN KILOGRAMS',
-  //    heartWeight: 'HEART WEIGHT IN GRAMS',
-  // }
-  console.log(cat);
-});
-
-```
 
 ## credit
 
