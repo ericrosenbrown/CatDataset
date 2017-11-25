@@ -1,6 +1,6 @@
 # Cat Weight Histogram
 
-Delaney Williams and I wondered if our cats (DQS and Salem respectively) were overweight. In order to determine whether Salem and DQS were overweight cats or not, I decided to find a dataset of cat weights and visualize them in histogram form using python to see where the two cats were. Below are the final two histograms. The first one is the weight (in kilograms) of the body weight of a male cat. The second is the weight (in kilograms) of the body weight of a female cat:
+Delaney Williams and I wondered if our cats (DQS and Salem (My sister's cat, Rachel) respectively) were overweight. In order to determine whether Salem and DQS were overweight cats or not, I decided to find a dataset of cat weights and visualize them in histogram form using python to see where the two cats were. Below are the final two histograms. The first one is the weight (in kilograms) of the body weight of a male cat. The second is the weight (in kilograms) of the body weight of a female cat:
 
 Male Cats
 ![Alt text](./Male.png?raw=true "Title")
