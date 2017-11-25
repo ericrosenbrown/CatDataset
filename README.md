@@ -8,6 +8,10 @@ Male Cats
 Female Cats
 ![Alt text](./Female.png?raw=true "Title")
 
+My sisters cat was 6.8 pounds, which seems super heavy according to this dataset. However, this cat dataset was collected in 1947, even though it appears to be the most cited publications for cat weights. I found a newer publication from 2015 that studied cat weights in Australia, which found the following histogram:
+
+![Alt text](./newgraph.png?raw=true "Title")
+
 ## credit
 
 The data were obtained from
@@ -15,3 +19,5 @@ The data were obtained from
 *Fisher, R.A. (1947) The analysis of covariance method for the relation between a part and the whole. Biometrics, 3, 65–68.*
 
 https://github.com/mathisonian/datasets-cats
+
+http://www.sciencedirect.com/science/article/pii/S0167587716304068
