@@ -13,3 +13,5 @@ Female Cats
 The data were obtained from
 
 *Fisher, R.A. (1947) The analysis of covariance method for the relation between a part and the whole. Biometrics, 3, 65–68.*
+
+https://github.com/mathisonian/datasets-cats
