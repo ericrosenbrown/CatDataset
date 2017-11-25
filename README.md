@@ -1,5 +1,6 @@
 In order to determine whether my sister's male cat was overweight or not, I decided to find a dataset of cat weights and visualize them in histogram form to see where my sister's cat fell on it. Below is the final histograms, one for males and one for females:
 
+![Alt text](./Male.png?raw=true "Title")
 
 ## credit
 
